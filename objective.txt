@@ -1,0 +1,2 @@
+Performing an EDA to gain insights from the Titanic dataset on kaggle, identify potential outliers or errors, and form hypotheses that can guide further analysis. 
+This is a critical step in the data analysis process that can help to identify trends and relationships, as well as potential areas for improvement or further investigation.
